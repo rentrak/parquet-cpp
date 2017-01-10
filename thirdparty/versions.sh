@@ -15,5 +15,5 @@ GTEST_URL="https://github.com/google/googletest/archive/release-${GTEST_VERSION}
 GTEST_BASEDIR=googletest-release-$GTEST_VERSION
 
 ZLIB_VERSION=1.2.8
-ZLIB_URL=http://zlib.net/zlib-${ZLIB_VERSION}.tar.gz
+ZLIB_URL=http://zlib.net/fossils/zlib-${ZLIB_VERSION}.tar.gz
 ZLIB_BASEDIR=zlib-${ZLIB_VERSION}
